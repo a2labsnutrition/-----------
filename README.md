@@ -56,7 +56,7 @@ Tudo o que você cria fica na pasta `dados/` e **nunca vai para o GitHub**, porq
 
 ## Créditos e licenças
 
-- Código do Estúdio Opus: licença [MIT](LICENSE).
+- Código do Estúdio Opus: uso pessoal permitido, **proibida a venda, revenda ou redistribuição**. Veja [LICENSE](LICENSE).
 - Modelos de prompt: [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) (MIT), baixados na primeira execução. Cada prompt é de quem o criou e o link do post original aparece no estúdio.
 - ffmpeg via [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static); render via [Playwright](https://playwright.dev); vozes [Piper](https://github.com/rhasspy/piper) (cada voz tem a sua licença); transcrição [faster-whisper](https://github.com/SYSTRAN/faster-whisper).
 - ElevenLabs, Claude e CapCut são marcas dos seus donos. Este projeto não tem ligação oficial com nenhum deles.
